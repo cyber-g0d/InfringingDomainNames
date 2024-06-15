@@ -1,0 +1,2 @@
+# InfringingDomainNames
+BlockedDomains_IntellectualPropertyViolations_Q1_2024 Spain
